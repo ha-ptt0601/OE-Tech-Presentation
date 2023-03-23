@@ -1,8 +1,8 @@
 <?php
 
-namespace Resolve\Value;
+namespace Problem1\Resolve\Value;
 
-use Resolve\Node;
+use Problem1\Resolve\Node;
 
 abstract class ValueNode extends Node
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Resolve\Value;
+namespace Problem1\Resolve\Value;
 
-class FieldValueNode extends ValueNode
+class SourceValueNode extends ValueNode
 {
     /**
      * @inheritDoc

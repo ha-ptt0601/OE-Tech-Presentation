@@ -1,5 +1,6 @@
 <?php
 
+namespace Problem1;
 class Node
 {
     /**

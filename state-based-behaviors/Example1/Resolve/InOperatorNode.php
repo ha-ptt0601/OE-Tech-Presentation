@@ -1,6 +1,6 @@
 <?php
 
-namespace Resolve;
+namespace Problem1\Resolve;
 
 class InOperatorNode extends OperatorNode
 {
